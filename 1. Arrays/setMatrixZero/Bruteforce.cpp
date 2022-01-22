@@ -1,5 +1,5 @@
 // Link - https://leetcode.com/problems/set-matrix-zeroes/
-// Time Complexity - O((m*n) + (m+n))
+// Time Complexity - O((m*n) * (m+n))
 // Space Complexity - O(1)
 
 class Solution {
