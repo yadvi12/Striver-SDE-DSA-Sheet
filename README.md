@@ -6,4 +6,4 @@ Link - https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-intervi
 
 Day | Question Name | Logic Used 
 ------|---------------|------------|
-1 | [Missing and Repeating](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-01_Arrays/missing_repeating.cpp) | repeated xor
+1 | [Set Matrix Zero](https://leetcode.com/problems/set-matrix-zeroes/) | Take row and column vector and modify it according to the values in the matrix
