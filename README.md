@@ -15,3 +15,4 @@ Day | Question Name | Logic Used
 2 | [Missing and Repeating Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | Use mathematical formula for summation or XOR operator
 5 | [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/) | Use iterative or recursive way to reverse the Linked List
 5 | [Find the middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Can be solved using Slow and Fast Pointer Approach
+5 | [Remove N-th Node from back of Linked List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Traversing 4 nodes and 1 node from the start will be same as traversing 4 nodes and 1 nodes from the end - slow and fast pointer approach
