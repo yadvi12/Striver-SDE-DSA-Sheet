@@ -13,3 +13,5 @@ Day | Question Name | Logic Used
 1 | [Sort an array of 0,1,2](https://leetcode.com/problems/sort-colors/) | Use counting sort or Dutch National Flag algorithm
 1 | [Stock Buy and Sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | At each index, the profit equals the difference of the value at that index and the minimum so far
 2 | [Missing and Repeating Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | Use mathematical formula for summation or XOR operator
+5 | [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/) | Use iterative or recursive way to reverse the Linked List
+5 | [Find the middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Can be solved using Slow and Fast Pointer Approach
