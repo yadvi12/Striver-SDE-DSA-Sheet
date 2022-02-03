@@ -16,4 +16,5 @@ Day | Question Name | Logic Used
 5 | [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/) | Use iterative or recursive way to reverse the Linked List
 5 | [Find the middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Can be solved using Slow and Fast Pointer Approach
 5 | [Remove N-th Node from back of Linked List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Traversing 4 nodes and 1 node from the start will be same as traversing 4 nodes and 1 nodes from the end - slow and fast pointer approach
-5| [Delete a given Node when a node is given](https://leetcode.com/problems/delete-node-in-a-linked-list/) | The approach is to copy the next node’s value in the deleted node
+5 | [Delete a given Node when a node is given](https://leetcode.com/problems/delete-node-in-a-linked-list/) | The approach is to copy the next node’s value in the deleted node
+5 | [Merge 2 sorted Linked List](https://leetcode.com/problems/merge-two-sorted-lists/) | Traverse and compare the list elements using 4 pointers prev1, curr1, prev2 and curr2
