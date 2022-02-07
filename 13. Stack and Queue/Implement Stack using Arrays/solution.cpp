@@ -1,4 +1,6 @@
 // Link - https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1
+// Time Complexity - O(N)
+// Space Complexity - O(N)
 
 // { Driver Code Starts
 #include<bits/stdc++.h>
