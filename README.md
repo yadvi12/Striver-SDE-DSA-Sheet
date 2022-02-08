@@ -22,3 +22,4 @@ Day | Question Name | Logic Used
 6 | [Check if a Linked List is Palindrome or not](https://leetcode.com/problems/palindrome-linked-list/) | Reverse the Linked List from the middle, middle can be calculated using fast and slow pointer approach
 6 | [Reverse a Linked List in groups of size k](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Use Recursion to solve one case
 7 | [Clone a Linked List with random and next pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Insert the clone Linked List between original Linked List and change the arbitrary pointers
+
